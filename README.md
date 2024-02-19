@@ -10,7 +10,7 @@ I utilize the online resources and develop the web application.
 
 I am a back-end engineer with 3 years of industry experience. During this time, I have worked on several projects using Laravel  and built websites , CRMS & ERP's.
 
-My experience is in these technologies has allowed me to develop a strong understanding of back-end development principles and best practices. I have experience with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, jQuery, PHP, Laravel, MySQL & API Development
+My experience is in these technologies has allowed me to develop a strong understanding of back-end development principles and best practices. I have experience with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, jQuery, PHP, Laravel, MySQL , API Development , React & Wordpress Basics 
 
 In addition to my technical skills, I have excellent problem-solving abilities, attention to detail, and a strong commitment to delivering high-quality work. I am passionate about back-end development and am constantly learning and staying up-to-date with the latest industry trends and technologies.
 
@@ -18,7 +18,7 @@ Overall, I believe that my experience and skills make me a strong candidate for 
 
 <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 
-- 📫 How to reach me: mianharoon7545927@gmail.com 
+- 📫 How to reach me: mianharoon7545927@gmail.com || mrharoon4260@gmail.com
 
 
 [<img src='icons/github.svg' alt='github' height='40'>](https://github.com/muhammad-haroon-001)  [<img src='icons/instagram.svg' alt='instagram' height='40'>]([https://www.instagram.com/mihi_266?igsh=MTMwdXM2bTQyZ200MQ==])  [<img src='icons/twitter.svg' alt='twitter' height='40'>](https://x.com/MiHi_007?t=3MCaL_tZh0W8CnEYuz2mFw&s=09)
