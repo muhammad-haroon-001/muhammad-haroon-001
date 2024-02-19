@@ -18,7 +18,7 @@ Overall, I believe that my experience and skills make me a strong candidate for 
 
 <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 
-- 📫 How to reach me: mianhamxa914@gmail.com 
+- 📫 How to reach me: mianharoon7545927@gmail.com 
 
 
-[<img src='icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadHamza0147)  [<img src='icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mr_hamxa/)  [<img src='icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_hamxa266)
+[<img src='icons/github.svg' alt='github' height='40'>](https://github.com/muhammad-haroon-001)  [<img src='icons/instagram.svg' alt='instagram' height='40'>]([https://www.instagram.com/mihi_266?igsh=MTMwdXM2bTQyZ200MQ==])  [<img src='icons/twitter.svg' alt='twitter' height='40'>](https://x.com/MiHi_007?t=3MCaL_tZh0W8CnEYuz2mFw&s=09)
