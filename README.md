@@ -10,7 +10,7 @@ I utilize the online resources and develop the web application.
 
 I am a back-end engineer with 3 years of industry experience. During this time, I have worked on several projects using Laravel  and built websites , CRMS & ERP's.
 
-My experience is in these technologies has allowed me to develop a strong understanding of back-end development principles and best practices. I have experience with HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, jQuery, PHP, Laravel, MySQL , API Development , React & Wordpress Basics 
+My experience is in these technologies has allowed me to develop a strong understanding of back-end development principles and best practices. I have experience with HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, jQuery, PHP, Laravel, React.js, Next.js, MySQL , Postgresql ,MonogoDB , AAPI, Linux, Cloudways, Hetzner, hpanel, cpanel, Cloud servers, Apache , Nigix
 
 In addition to my technical skills, I have excellent problem-solving abilities, attention to detail, and a strong commitment to delivering high-quality work. I am passionate about back-end development and am constantly learning and staying up-to-date with the latest industry trends and technologies.
 
